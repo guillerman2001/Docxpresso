@@ -44,7 +44,7 @@ console.log(util1.modifyTemplateData({id:5}));
 
 console.log(util1.accessByTokenAction({email: 'tesgit@docxpresso.com', url: '/'}));
 
-console.log(util1.createUser({username: 'Eduardo123', email:'gmail@gmail.com', password:'pixiboton', name:'Eduardo', role:'user'}));
+console.log(util1.createUser({username: 'Eduardo123', email:'gmail@gmail.com', password:'pasword123', name:'Eduardo', role:'user'}));
 
 console.log(util1.createWorkflow({template:404,token:'c30d3cf6321e34b1fc27405bb5e5f0b0', steps:{}}));
 
