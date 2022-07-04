@@ -2,9 +2,13 @@
   "name": "sdk.node",
   "version": "1.0.0",
   "description": "",
+  
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
@@ -16,4 +20,6 @@
     "url": "https://github.com/guillerman2001/Docxpresso/issues"
   },
   "homepage": "https://github.com/guillerman2001/Docxpresso#readme"
+
+
 }
