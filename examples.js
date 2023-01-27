@@ -1,4 +1,4 @@
-var util1 = new Utils({pKey:'ca0d6f3ce2c47993e0e1a67f38cdb6b4b1d1fcbdca0d6f3ce2c47993e0e1a67f',docxpressoInstallation:'https://testgit.pre.docxpresso.com'});
+var util1 = new Utils({pKey:'pKey',docxpressoInstallation:'docxpressoInstallation'});
 
 util1.setOptions()
 
